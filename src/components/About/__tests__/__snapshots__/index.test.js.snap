@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`About component matches snapshot DOM node structure 1`] = `
+exports[`About component renders matches snapshot DOM node structure 1`] = `
 <DocumentFragment>
   <section
     class="my-5"
