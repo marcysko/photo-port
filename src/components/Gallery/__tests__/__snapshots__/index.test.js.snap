@@ -17,23 +17,27 @@ exports[`Gallery component matches snapshot 1`] = `
       >
         <img
           alt="Cat green eyes"
+          category="portraits"
           class="img-thumbnail mx-1"
-          src="0.jpg"
+          index="0"
         />
         <img
           alt="Green parrot"
+          category="portraits"
           class="img-thumbnail mx-1"
-          src="1.jpg"
+          index="1"
         />
         <img
           alt="Yellow macaw"
+          category="portraits"
           class="img-thumbnail mx-1"
-          src="2.jpg"
+          index="2"
         />
         <img
           alt="Pug smile"
+          category="portraits"
           class="img-thumbnail mx-1"
-          src="3.jpg"
+          index="3"
         />
       </div>
     </div>
